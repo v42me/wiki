@@ -1,0 +1,1 @@
+[pip install mysql-python error](pip install mysql-python error)
