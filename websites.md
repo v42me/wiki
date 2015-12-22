@@ -1,0 +1,1 @@
+[static cdn lib](static cdn lib)
