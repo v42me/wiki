@@ -1,0 +1,6 @@
+* [http://www.staticfile.org](http://www.staticfile.org)
+* [http://www.bootcdn.cn/](http://www.bootcdn.cn/)
+* [http://libs.useso.com/](http://libs.useso.com/)
+* [http://cdn.code.baidu.com/](http://cdn.code.baidu.com/)
+* [https://cdnjs.com/](https://cdnjs.com/)
+* [https://developers.google.com/speed/libraries/](https://developers.google.com/speed/libraries/)
